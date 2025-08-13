@@ -1,0 +1,8 @@
+streamlit
+scikit-learn
+joblib
+sentence-transformers
+python-docx
+PyMuPDF
+docx2txt
+openai
